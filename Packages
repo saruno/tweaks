@@ -1,0 +1,14 @@
+Package: me.nepeta.relocate
+Version: 0.1.11
+Architecture: iphoneos-arm
+Maintainer: Saruno <vanthinh061189@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Filename: /Relocate.deb
+Size: 125518
+MD5sum: efb33bbf8bfa20c5e271a764afb95ac9
+SHA1: 4210b7ae5678fca387f755889b2b03d7d949c58a
+SHA256: 2d3e0ec2863d45fff73701162461b16c491bd8c7fbfa6a624b25828a6feff0be
+Section: Tweaks
+Description: Minimalist GPS spoofer (free)
+Author: Saruno <vanthinh061189@gmail.com>
+Name: Relocate
