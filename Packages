@@ -24,6 +24,6 @@ MD5sum: a130503fdf2ee9b2f74870bf219d401c
 SHA1: 74a67435df56ba64a31f1831b4e7bf6b379a6374
 SHA256: 5bea3f5f35d997fb4d924f2faabb5150b6f5ac1de9348f4d1e4a501b6c4ffdc3
 Section: System
-Description: Command line tool change proxy
+Description: Command line tool change proxy. Install all depends for autotool.
 Author: Saruno <vanthinh061189@gmail.com>
 Name: Proxytool
