@@ -2,7 +2,7 @@ Package: me.nepeta.relocate
 Version: 0.1.11
 Architecture: iphoneos-arm
 Maintainer: Saruno <vanthinh061189@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
 Filename: /Relocate.deb
 Size: 125518
 MD5sum: efb33bbf8bfa20c5e271a764afb95ac9
@@ -17,7 +17,7 @@ Package: ru.rejail.autotouch
 Version: 5.2.6k
 Architecture: iphoneos-arm
 Maintainer: ReJail
-Depends: mobilesubstrate, firmware (>= 8.0), com.rpetrich.rocketbootstrap(>= 1.0.2)
+Depends: mobilesubstrate, firmware (>= 8.0), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3)
 Filename: /AutoTouchInputTextCracked.deb
 Size: 46869818
 MD5sum: 8af846589b4640b7f04135391a8b05bc
@@ -32,7 +32,7 @@ Package: com.aia.proxytool
 Version: 0.1.11
 Architecture: iphoneos-arm
 Maintainer: Saruno <vanthinh061189@gmail.com>
-Depends: me.nepeta.relocate, ru.rejail.autotouch, com.autopear.installipa (>= 3.4.1)
+Depends: me.nepeta.relocate, ru.rejail.autotouch, com.autopear.installipa (>= 3.4.1), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3)
 Filename: /Proxytool.deb
 Size: 10386
 MD5sum: a130503fdf2ee9b2f74870bf219d401c
