@@ -28,16 +28,31 @@ Description: Record and playback touch operations, play macro srcipts automatica
 Author: Kent Krantz <kentkrantz@gmail.com>
 Name: AutoTouch with InputText Cracked
 
-Package: com.aia.proxytool
-Version: 0.1.11
+Package: com.tonyk7.mgspoof
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Saruno <vanthinh061189@gmail.com>
-Depends: me.nepeta.relocate, openssh, ru.rejail.autotouch, com.autopear.installipa (>= 3.4.1), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3)
+Depends: mobilesubstrate
+Filename: /MGSpoof.deb
+Size: 39454
+MD5sum: fdc0aba139627b648b91d2311aa8308c
+SHA1: 6c19852c86954e8e5ccbfdafff30fa20c52e2aad
+SHA256: 231f9d0c631ae14ac20f1f406f6857c393c84f00a064d7d21b8da6e748be7c80
+Section: Tweaks
+Description: Tool that can be used to spoof MGCopyAnswer's result (iOS 9 - 12.4)
+Author: Saruno <vanthinh061189@gmail.com>
+Name: MGSpoof
+
+Package: com.aia.proxytool
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Saruno <vanthinh061189@gmail.com>
+Depends: com.rbt.useragentchanger, com.tonyk7.mgspoof, me.nepeta.relocate, openssh, ru.rejail.autotouch, com.autopear.installipa (>= 3.4.1), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3)
 Filename: /Proxytool.deb
-Size: 10386
-MD5sum: a130503fdf2ee9b2f74870bf219d401c
-SHA1: 74a67435df56ba64a31f1831b4e7bf6b379a6374
-SHA256: 5bea3f5f35d997fb4d924f2faabb5150b6f5ac1de9348f4d1e4a501b6c4ffdc3
+Size: 8078
+MD5sum: c0adaa4b199092c08b3b41f49a3ec044
+SHA1: 6f20b51ff8681f31865d35c1ce91d6595887295f
+SHA256: 5228e4e7d67b3b544d49de3e29afc5af617c60804c63189438c53d1aa4b4d0b2
 Section: System
 Description: Command line tool change proxy. Install all depends for autotool.
 Author: Saruno <vanthinh061189@gmail.com>
