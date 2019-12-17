@@ -47,7 +47,7 @@ Package: com.aia.proxytool
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Saruno <vanthinh061189@gmail.com>
-Depends: com.rbt.useragentchanger, com.tonyk7.mgspoof, me.nepeta.relocate, openssh, ru.rejail.autotouch, com.autopear.installipa (>= 3.4.1), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3)
+Depends: me.nepeta.relocate, openssh, ru.rejail.autotouch, com.autopear.installipa (>= 3.4.1), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3)
 Filename: /Proxytool.deb
 Size: 8078
 MD5sum: c0adaa4b199092c08b3b41f49a3ec044
