@@ -44,15 +44,15 @@ Author: Saruno <vanthinh061189@gmail.com>
 Name: MGSpoof
 
 Package: com.aia.proxytool
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Saruno <vanthinh061189@gmail.com>
 Depends: me.nepeta.relocate, openssh, ru.rejail.autotouch, com.autopear.installipa (>= 3.4.1), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3)
 Filename: /Proxytool.deb
-Size: 8078
-MD5sum: c0adaa4b199092c08b3b41f49a3ec044
-SHA1: 6f20b51ff8681f31865d35c1ce91d6595887295f
-SHA256: 5228e4e7d67b3b544d49de3e29afc5af617c60804c63189438c53d1aa4b4d0b2
+Size: 8144
+MD5sum: b428b8960268ff056e1f4e57e5a9103a
+SHA1: d53cab0ffdf70685da994cb383d9361c50fafc3b
+SHA256: a20da03a5739711e8229255c0cf339213490beb68f4dc0c1812499e47a43707b
 Section: System
 Description: Command line tool change proxy. Install all depends for autotool.
 Author: Saruno <vanthinh061189@gmail.com>
