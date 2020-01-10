@@ -14,15 +14,15 @@ Author: Saruno <vanthinh061189@gmail.com>
 Name: Relocate
 
 Package: ru.rejail.autotouch
-Version: 5.2.6k
+Version: 6.0.1k
 Architecture: iphoneos-arm
 Maintainer: ReJail
 Depends: mobilesubstrate, firmware (>= 8.0), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3)
 Filename: /AutoTouchInputTextCracked.deb
-Size: 46869818
-MD5sum: 8af846589b4640b7f04135391a8b05bc
-SHA1: 50fb00f005e42c16759aae318e43bca974d18716
-SHA256: 44484068c0c15e3013d8671b5645a02196e5c8b5e8498218e44b5dfbef39fe1c
+Size: 47079244
+MD5sum: 5e2b5e0d1473508d200fb28ecb95e9b2
+SHA1: b5803cb69c023d58312ee7994759bd3a57632a04
+SHA256: 1d184b259a97915b5ef9c57320ee4ae58bd469c5c5e2932b4971e740e77f421b
 Section: Tweaks
 Description: Record and playback touch operations, play macro srcipts automatically
 Author: Kent Krantz <kentkrantz@gmail.com>
