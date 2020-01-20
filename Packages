@@ -28,6 +28,21 @@ Description: Record and playback touch operations, play macro srcipts automatica
 Author: Kent Krantz <kentkrantz@gmail.com>
 Name: AutoTouch with InputText Cracked
 
+Package: com.wiimob.wiiauto
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Manh Tran
+Depends: mobilesubstrate, firmware (>= 8.0), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3), me.nepeta.relocate, openssh, com.autopear.installipa (>= 3.4.1)
+Filename: /WiiAuto.deb
+Size: 17539524
+MD5sum: 97d4430c718aa63cea73539bd14f07e1
+SHA1: 340d452c3e6ddbd95d93d727d2fd70e393507236
+SHA256: f286a3b0d17a0c63a6fe6eb1df0e7a15cbaa0c625390eba44e572b948e679f1c
+Section: Tweaks
+Description: Auto macro scripts developed by Wiimob.
+Author: Manh Tran
+Name: WiiAuto
+
 Package: com.tonyk7.mgspoof
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -57,18 +72,3 @@ Section: System
 Description: Command line tool change proxy. Install all depends for autotool.
 Author: Saruno <vanthinh061189@gmail.com>
 Name: Proxytool
-
-Package: com.wiimob.wiiauto
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Manh Tran
-Depends: mobilesubstrate, firmware (>= 8.0), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3), me.nepeta.relocate, openssh, com.autopear.installipa (>= 3.4.1)
-Filename: /WiiAuto.deb
-Size: 17539524
-MD5sum: 97d4430c718aa63cea73539bd14f07e1
-SHA1: 340d452c3e6ddbd95d93d727d2fd70e393507236
-SHA256: f286a3b0d17a0c63a6fe6eb1df0e7a15cbaa0c625390eba44e572b948e679f1c
-Section: Tweaks
-Description: Auto macro scripts developed by Wiimob.
-Author: Manh Tran
-Name: WiiAuto
