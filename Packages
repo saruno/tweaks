@@ -34,7 +34,7 @@ Architecture: iphoneos-arm
 Maintainer: Manh Tran
 Depends: mobilesubstrate, firmware (>= 8.0), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3), me.nepeta.relocate, openssh, com.autopear.installipa (>= 3.4.1), unzip, com.aia.proxytool
 Filename: /WiiAuto.deb
-Size: 17562342
+Size: 17554316
 MD5sum: 725b1162e49779d237a55e5ed9266f45
 SHA1: c34016127fee1d975f6171d3e0cb50cf0f20efc6
 SHA256: a38197c384733f1ad537f6e69dd1e5e8ec7afa462c48ecf6e2201fc6b75dbe9f
