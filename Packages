@@ -29,15 +29,15 @@ Author: Kent Krantz <kentkrantz@gmail.com>
 Name: AutoTouch with InputText Cracked
 
 Package: com.wiimob.wiiauto
-Version: 0.0.5
+Version: 0.0.6
 Architecture: iphoneos-arm
 Maintainer: Manh Tran
 Depends: mobilesubstrate, firmware (>= 8.0), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3), me.nepeta.relocate, openssh, com.autopear.installipa (>= 3.4.1), unzip, com.aia.proxytool
 Filename: /WiiAuto.deb
-Size: 17540666
-MD5sum: 4e66ace08a17e046aabb7f5406d1ad6a
-SHA1: 9c4a8c2c48e6437d31103ea93f567392de70e9ee
-SHA256: 7fb0bd9990e601444bbec57137b40c81012db8956be0a07ac9f7391f3947d8a8
+Size: 17562342
+MD5sum: be2699243b210e6e5ee3491bddecae00
+SHA1: e4234fd37bebf23193b6fef0b6f3f60c45a8180a
+SHA256: f101e0ec0ad9d05147b9ec197125f9ccc8b5ea4480567569f4bb85d67aedce62
 Section: Tweaks
 Description: Auto macro scripts developed by Wiimob. Install Link <http://localhost:8080/install>
 Author: Manh Tran
