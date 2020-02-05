@@ -41,5 +41,11 @@
     <true/>
     <key>com.apple.security.network.server</key>
     <true/>
+    <key>com.apple.private.mobileinstall.allowedSPI</key>
+    <array>
+        <string>CheckCapabilitiesMatch</string>
+        <string>InstallForLaunchServices</string>
+        <string>UninstallForLaunchServices</string>
+    </array>
 </dict>
 </plist>
