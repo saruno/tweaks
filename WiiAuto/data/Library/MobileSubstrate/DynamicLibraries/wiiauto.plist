@@ -1,7 +1,5 @@
 {
     Filter = {
         Bundles = ("com.apple.UIKit", "com.apple.corelocation");
-        Executables = ("backboardd");
-        Mode = "Any";
     };
 }

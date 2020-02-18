@@ -16,6 +16,8 @@
 	<true/>
 	<key>com.apple.private.accounts.allaccounts</key>
     <true/>
+    <key>com.apple.private.accounts.bundleidspoofing</key>
+    <true/>
     <key>platform-application</key>
     <true/>
     <key>get-task-allow</key>
@@ -50,7 +52,11 @@
         <string>Browse</string>
         <string>Uninstall</string>
     </array>
-    <key>com.apple.springboard.debugapplications</key>
+    <key>com.apple.launchservices.clearadvertisingid</key>
     <true/>
+    <key>com.apple.security.temporary-exception.mach-lookup.global-name</key>
+    <array>
+        <string>com.wiimob.wiiauto.springboard_xpc</string>
+    </array>
 </dict>
 </plist>
