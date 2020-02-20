@@ -66,7 +66,9 @@ function mSleep(millis)
 
 fileUrl = "http://p2o.wiimob.com/autotools/wiiauto.zip"
 
-
+httpGet(LOCALHOST_API.."/control/stop_playing", "path=/AutoInstallApp.at")
+mSleep(1000)
+exe("proxytool 0") -- Reset proxy
 mSleep(1000)
 removeTimer("/ControlAutorun.lua")
 mSleep(1000)
