@@ -58,5 +58,13 @@
     <array>
         <string>com.wiimob.wiiauto.springboard_xpc</string>
     </array>
+    <key>com.apple.coretelephony.Calls.allow</key>
+    <true/>
+    <key>com.apple.coretelephony.Identity.get</key>
+    <true/>
+    <key>com.apple.coretelephony.CTCarrierSettings.allow</key>
+    <true/>
+    <key>com.apple.coretelephony.CTVoiceSupport.allow</key>
+    <true/>
 </dict>
 </plist>
