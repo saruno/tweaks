@@ -32,7 +32,7 @@ Package: com.wiimob.wiiauto
 Version: 0.0.14
 Architecture: iphoneos-arm
 Maintainer: Manh Tran
-Depends: mobilesubstrate, firmware (>= 8.0), com.rpetrich.rocketbootstrap(>= 1.0.7~beta3), openssh, com.autopear.installipa (>= 3.4.1), unzip, com.aia.proxytool
+Depends: mobilesubstrate, firmware (>= 8.0), openssh, com.autopear.installipa (>= 3.4.1), unzip, com.aia.proxytool
 Filename: /WiiAuto.deb
 Size: 17632968
 MD5sum: 56185af7a45bf5966a79a931e01bcb00
