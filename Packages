@@ -13,6 +13,21 @@ Description: Auto macro scripts developed by Wiimob. Install Link <http://localh
 Author: Manh Tran
 Name: WiiAuto
 
+Package: com.tonyk7.mgspoof
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Saruno <vanthinh061189@gmail.com>
+Depends: mobilesubstrate
+Filename: /MGSpoof.deb
+Size: 39386
+MD5sum: ca6c9a0e5d09d2d1f0d6c2a73f8e2e21
+SHA1: 2225391dc2c7b50df0b41dff38879bfcbeb60ceb
+SHA256: 727dd6666f43e2c84ef19150e036ab94be37f669d60fc1ca20dfec97d119898d
+Section: Tweaks
+Description: Tool that can be used to spoof MGCopyAnswer's result (iOS 9 - 12.4)
+Author: Saruno <vanthinh061189@gmail.com>
+Name: MGSpoof
+
 Package: com.aia.proxytool
 Version: 0.0.3
 Architecture: iphoneos-arm
