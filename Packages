@@ -1,5 +1,5 @@
 Package: com.wiimob.wiiauto
-Version: 0.0.24
+Version: 0.0.25
 Architecture: iphoneos-arm
 Maintainer: Manh Tran
 Depends: mobilesubstrate, firmware (>= 8.0), openssh, com.autopear.installipa (>= 3.4.1), unzip, com.aia.proxytool
