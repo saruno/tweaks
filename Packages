@@ -1,13 +1,13 @@
 Package: com.wiimob.wiiauto
-Version: 0.0.31
+Version: 0.0.32
 Architecture: iphoneos-arm
 Maintainer: Manh Tran
 Depends: mobilesubstrate, firmware (>= 8.0), openssh, com.autopear.installipa (>= 3.4.1), unzip, com.aia.proxytool
 Filename: /WiiAuto.deb
-Size: 17951220
-MD5sum: 6737bb56c1be5f12f5dbcc4ad67282ff
-SHA1: fd1e7853be03b7a98d0190fc57bc649ef1abfa52
-SHA256: ec890e90f8c9c3ed6d04336294122890c6eab1524fd925cd598a8fb015c8fc55
+Size: 17950978
+MD5sum: 72aa8742dcf43b4157eb45c473aaab30
+SHA1: 6fd4c4f1cfb44d1033daec222465631408b070d2
+SHA256: 0539a04999439d151feafdf3acc477e1cffc30fbb402ebe3fffe31448356e816
 Section: Tweaks
 Description: Auto macro scripts developed by Wiimob. Install Link <http://localhost:8080/install>
 Author: Manh Tran
