@@ -13,6 +13,12 @@
         <string>/usr/bin/wiiauto_run</string>
         <string>daemon</string>
     </array>
+    <key>LowPriorityIO</key>
+    <false/>
+    <key>Nice</key>
+    <integer>-20</integer>
+    <key>ProcessType</key>
+    <string>Interactive</string>
     <key>GroupName</key>
     <string>wheel</string>
     <key>UserName</key>
