@@ -80,5 +80,33 @@
     <true/>
     <key>com.apple.external-accessory.wireless-configuration</key>
     <true/>
+    <key>com.apple.private.MobileContainerManager.allowed</key>
+    <true/>
+    <key>com.apple.system-task-ports</key> 
+    <true/> 
+    <key>com.apple.private.security.no-container</key> 
+	<true/> 
+    <key>com.apple.QuartzCore.global-capture</key>
+    <true/>
+    <key>com.apple.QuartzCore.secure-capture</key>
+    <true/>
+    <key>com.apple.QuartzCore.secure-mode</key>
+    <true/>
+    <key>com.apple.QuartzCore.displayable-context</key>
+	<true/>
+    <key>com.apple.private.hid.client.event-dispatch</key>
+    <true/>
+    <key>com.apple.private.hid.client.event-filter</key>
+    <true/>
+    <key>com.apple.private.hid.manager.client</key>
+    <true/>
+    <key>com.apple.private.hid.client.service-protected</key>
+    <true/>
+    <key>com.apple.accessibility.api</key>
+	<true/>
+    <key>com.apple.hid.manager.user-access-keyboard</key>
+	<true/>
+    <key>com.apple.hid.manager.user-access-device</key>
+	<true/>
 </dict>
 </plist>
