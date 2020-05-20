@@ -38,7 +38,18 @@
         <string>com.apple.ProtectedCloudStorage</string>
     </array>
     <key>com.apple.private.tcc.allow</key>
-    <true/>
+	<array>
+		<string>kTCCServiceAddressBook</string>
+		<string>kTCCServiceCalendar</string>
+		<string>kTCCServiceReminders</string>
+		<string>kTCCServicePhotos</string>
+		<string>kTCCServiceMediaLibrary</string>
+		<string>kTCCServiceMicrophone</string>
+		<string>kTCCServiceCamera</string>
+		<string>kTCCServiceWillow</string>
+	</array>
+	<key>com.apple.private.tcc.manager</key>
+	<true/>
     <key>com.apple.security.network.client</key>
     <true/>
     <key>com.apple.security.network.server</key>
